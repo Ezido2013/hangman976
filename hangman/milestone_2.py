@@ -1,5 +1,7 @@
 import random
 
+def word_list():
+    return word_list
 word_list = ["Apple", "Grapes", "Kiwi", "Pear", "Banana"]
 print(word_list)
 
