@@ -42,14 +42,14 @@ As a beginner, I look forward to any feedbacks and comments on how I handled thi
   - cd hangman/hangman976
   
 ## File Structure of the Project
-  -hangman
-  ├── hangman                 # directory contain main application
-  ├── hangman976          # script to run the game
-    ├── README.md           # project detail README file
-  ├── milestone_2.py          # experiments and project milestone
-  ├── milestone_3.py          # experiments and project milestone
-  ├── milestone_4.py          # experiments and project milestone
-  ├── milestone_5.py          # experiments and project milestone
+  hangman
+├── README.md               # project detail README file
+├── hangman976                 # directory contain main application
+│   ├── hangman_Template.py     # script to run the game
+├── milestone_2.py          # experiments and project milestone
+├── milestone_3.py          # experiments and project milestone
+├── milestone_4.py          # experiments and project milestone
+├── milestone_5.py          # experiments and project milestone
 
 ## License Information
    MIT License
