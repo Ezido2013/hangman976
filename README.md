@@ -39,17 +39,17 @@ Navigate to the directory of your choice or continue with the Home directory.
 As a beginner, I look forward to any feedbacks and comments on how I handled this challenge. This will help me in improving my python programming skill.
      
 ## Usage Instructions
-  cd hangman/hangman976
+  - cd hangman/hangman976
   
 ## File Structure of the Project
--hangman
-├── hangman                 # directory contain main application
-│   ├── hangman976          # script to run the game
+  -hangman
+  ├── hangman                 # directory contain main application
+  ├── hangman976          # script to run the game
     ├── README.md           # project detail README file
-├── milestone_2.py          # experiments and project milestone
-├── milestone_3.py          # experiments and project milestone
-├── milestone_4.py          # experiments and project milestone
-├── milestone_5.py          # experiments and project milestone
+  ├── milestone_2.py          # experiments and project milestone
+  ├── milestone_3.py          # experiments and project milestone
+  ├── milestone_4.py          # experiments and project milestone
+  ├── milestone_5.py          # experiments and project milestone
 
 ## License Information
    MIT License
